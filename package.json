@@ -1,6 +1,6 @@
 {
   "name": "metadata-scrapper",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Welcome message",
   "main": "index.js",
   "scripts": {
